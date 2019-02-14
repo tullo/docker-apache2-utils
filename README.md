@@ -1,4 +1,4 @@
-# docker-apache2-utils
+# ApacheBench (ab)
 
 ApacheBench (ab) is the default entrypoint, which can be overwritten with e.g. `--entrypoint /usr/bin/htpasswd`
 
