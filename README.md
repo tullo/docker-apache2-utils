@@ -24,3 +24,7 @@ $ docker cp ab:/gnuplot.tsv ./gnuplot/data/gnuplot.tsv
 $ cd gnuplot && gnuplot jpegplot.script
 ```
 ![](gnuplot/graphs/timeseries.jpg)
+
+## Credit
+
+[Apache Bench and Gnuplot: you’re probably doing it wrong](http://www.bradlanders.com/2013/04/15/apache-bench-and-gnuplot-youre-probably-doing-it-wrong/)
