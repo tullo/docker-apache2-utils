@@ -29,3 +29,4 @@ $ cd gnuplot && gnuplot jpegplot.script
 
 * [Apache Bench and Gnuplot: you’re probably doing it wrong](http://www.bradlanders.com/2013/04/15/apache-bench-and-gnuplot-youre-probably-doing-it-wrong/)
 * [An Introduction to Load Testing](https://www.digitalocean.com/community/tutorials/an-introduction-to-load-testing)
+* [Tips for Heavy Load Testing with Apache Bench](https://blog.getpolymorph.com/7-tips-for-heavy-load-testing-with-apache-bench-b1127916b7b6)
